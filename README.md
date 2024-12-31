@@ -1,2 +1,2 @@
 # dwm
-my config for dwm
+DWM customization
